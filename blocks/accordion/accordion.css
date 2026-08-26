@@ -16,7 +16,7 @@
     padding-right: 46px;
     cursor: pointer;
     list-style: none;
-    overflow: auto;
+    overflow: visible;
     transition: background-color 0.2s;
     display: flex;
     align-items: center;
