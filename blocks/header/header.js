@@ -133,7 +133,7 @@ export default async function decorate(block) {
   const navBrand = nav.querySelector('.nav-brand');
   const logo = navBrand.querySelector('picture');
   if (logo) {
-    navBrand.innerHTML = `<a href="/" class="home">${logo.outerHTML}</a>`
+    navBrand.innerHTML = `<a href="/" class="home">${logo.outerHTML}</a>`;
   }
 
   const navSections = nav.querySelector('.nav-sections');
