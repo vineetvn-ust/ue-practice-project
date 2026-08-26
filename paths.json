@@ -1,0 +1,10 @@
+{
+    "mappings": [
+        "/content/universal-editor-tutorial/:/",
+        "/content/universal-editor-tutorial/configuration:/.helix/config.json",
+        "/content/universal-editor-tutorial/metadata:/metadata.json"
+    ],
+    "includes": [
+        "/content/universal-editor-tutorial/"
+    ]
+}

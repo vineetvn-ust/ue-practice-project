@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p78502-e680953.adobeaemcloud.com/ui#/aem/"
+    url: "https://author-p78502-e680953.adobeaemcloud.com/bin/franklin.delivery/vineetvn-ust/ue-practice-project/main"
     type: "markup"
     suffix: ".html"

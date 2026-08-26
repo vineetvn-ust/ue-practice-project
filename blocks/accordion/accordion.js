@@ -8,7 +8,7 @@ export default function decorate(block) {
 
     const accordionIcon = document.createElement('img');
     accordionIcon.className = 'accordion-item-icon';
-    accordionIcon.src = './icons/faq_icon.svg';
+    accordionIcon.src = '/icons/faq_icon.svg';
     summary.append(accordionIcon);
 
     moveInstrumentation(label, summary);
